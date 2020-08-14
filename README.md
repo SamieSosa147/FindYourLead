@@ -31,4 +31,4 @@ _**Post MVP Stretch Goals**_
 
 ## Component Hierarchy
 
-![image](https://media.git.generalassemb.ly/user/17300/files/b8942780-3a85-11ea-95fe-c734084916c8)
+![Screen Shot 2020-08-14 at 10 48 26 AM](https://media.git.generalassemb.ly/user/28284/files/dc50fd80-de1b-11ea-8214-f39aa5abf2bb)
