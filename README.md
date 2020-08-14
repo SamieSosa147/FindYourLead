@@ -1,41 +1,33 @@
-# Find-Your-Lead
+# A-lil-Bit-Salty
 
 ## Project Description
 
-My app is called FindYourLead. It's a recipe app for people who have a hard time figuring out what to eat. Users can see a massive variety of ingredients by just filtering out what ingredients they have or are willing to buy, or filtering out the cultural (location based) recipes they may lean towards. In the future, I'd like to add a feature so that users can see where people making the same recipe can come together and cook together.
+Our  app is called A-lil-Bit-Salty. It is picture based food app for people with a uniqie TASTE of humor. The app alows users to submit comments under not-so-attractive foods.  Users can select specific pictures they want to comment under. The kicker is, users can update, or even delete anyones comments.It is a community of satire commenting on disgusting images of "delicuous" meals.  In the future, we would like to add a feature that allows user's contents as well user authentication, a feature that would only allow  a specific user to edit, or delete their own comment. 
 
 ## Wireframes
 
-### Home
+### Frontend
 
-![Screen Shot 2020-07-28 at 11 27 55 AM](https://media.git.generalassemb.ly/user/28284/files/2620b080-d0c6-11ea-832a-795544933456)
+![Screen Shot 2020-08-14 at 10 29 42 AM](https://media.git.generalassemb.ly/user/28284/files/1ec50b00-de19-11ea-81fd-77f5e5a712a7)
+
+### Backend
+![Screen Shot 2020-08-14 at 10 31 50 AM](https://media.git.generalassemb.ly/user/28284/files/677cc400-de19-11ea-9de8-6132223c88f0)
 
 ### MVP User Stories
 
 _**MVP User Stories**_
 
-- \_As a user, I want to see a listing of all of the foods that include my ingredients.
-- \_As a user, I would like to click on an individual recipe to view its full ingredients.
-- \_As a user, I want to be able to easily navigate through and list of recipes or (outputs).
-- \_As a user, I want to be able to easily filter out a country of origin for my foods.
-- \_As a user, I want to be able to see a picture or image of my food.
-- \_As a user, I want to be able to add the food to a completed checklist.
+- \_As a user, I want to see a listing of all of "ugly" foods for the week. 
+- \_As a user, I would like to click on the comments of a specific image to add a comment. 
+- \_As a user, I want to be able to easily navigate through and list of images. 
+- \_As a user, I want to be able to easily delete, or edit a users comment. 
+
 
 _**Post MVP Stretch Goals**_
+ 
+- \_As a user, I would like to be able to create  user authentication; which would allow access on the page contingent on a users login. 
+- \_As a user, I would like to be able to create a social blog post that allows others to comment and share videos of their attempt of these crazy meals.
 
-- \_As a user, I would like to be able to search for others who are attempting the recipe.
-- \_As a user, I would like to be able to create a social blog post that allows others to comment on the recipe.
-- \_As a user, I would like to be able to create a social blog post that allows others to comment and share videos of their attempts.
-
-## API
-
-{
-meals: [
-{
-strMeal: "Baked salmon with fennel & tomatoes",
-strMealThumb: "https://www.themealdb.com/images/media/meals/1548772327.jpg",
-idMeal: "52959"
-},
 
 ## Component Hierarchy
 
